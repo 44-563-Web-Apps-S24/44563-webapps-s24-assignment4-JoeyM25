@@ -1,0 +1,33 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+.direction{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    background-color: rgb(200,200,200);
+}
+.direction:hover{
+    color: purple;
+    background-color: limegreen;
+}
+.name{
+    
+}
+
+.yasha{
+    
+}
+
+.gaev{
+
+}
+
+.lubov{
+
+}
+
+.lopakhin{
+
+}
