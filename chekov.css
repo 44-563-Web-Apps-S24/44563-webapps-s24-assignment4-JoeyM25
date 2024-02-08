@@ -15,19 +15,46 @@
 .name{
     
 }
-
 .yasha{
     color: rgb(174, 174, 1);
 }
-
 .gaev{
     color: green;
 }
-
 .lubov{
     color: lightcoral;
 }
-
 .lopakhin{
     color: lime;
+}
+
+.trofimov{
+    color: tomato;
+}
+
+table {
+    border-collapse: collapse;
+    width: 500px;
+    margin: 20px;
+}
+
+th {
+    background-color: coral;
+    text-align: left;
+    border: 5px solid black;
+    padding: 8px;
+}
+
+td {
+    border: 2.5px solid blue;
+    padding: 8px;
+    text-align: left;
+}
+
+tr:nth-child(odd){
+    background-color: aquamarine;
+}
+
+tr:nth-child(even){
+    background-color: aqua;
 }
